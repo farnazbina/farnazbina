@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Farnaz Bina 👋
 
-<!--
-**farnazbina/farnazbina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Frontend Developer. I love exploring new technologies and improving my skills in JavaScript and ReactJs.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Programming languages: JavaScript, TypeScript
+- Programming framworks: ReactJs, NextJs, VueJs, NuxtJs
+- Tools: WebSocket 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- DoctorOnlinePlus(https://doctoronlineplus.ir/)
+- Bit24(https://bit24.cash/)
+
+## 📫 Connect with Me
+- [LinkedIn]((https://www.linkedin.com/in/farnaz-bina/))
+- [Instagram](https://www.instagram.com/farnaz._.bina/)
+- Email: [farnazbina.dev@gmail.com]
