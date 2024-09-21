@@ -15,6 +15,10 @@ I'm a passionate Frontend Developer. I love exploring new technologies and impro
 - [Portfolio](https://chip-credit-bb5.notion.site/Farnaz-Bina-dc55d2b9885041fe85b6aa25be2165ff?pvs=4)
 - Email: [farnazbina.dev@gmail.com]
 
+<div align='center'>
+  <p>
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
@@ -30,3 +34,5 @@ I'm a passionate Frontend Developer. I love exploring new technologies and impro
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![adobephotoshop](https://img.shields.io/badge/-AdobePhotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+  </p>
+</div>
