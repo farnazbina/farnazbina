@@ -1,7 +1,8 @@
 # Hello, I'm Farnaz Bina 👋
 
 ## About Me
-I have 4 years of experience in frontend development. GitHub is home to my pet projects. Most of my work here includes personal projects, my portfolio website, and some admin stuff. I have a keen interest in full-stack engineering and the art of UI/UX design. Always open to collaboration, so don't hesitate to explore!
+Frontend developer specializing in React.js, Next.js, Vue.js, Nuxt.js 
+Building things that matter • Shipping open source • Learning in public
 
 ## 🔧 Technologies & Tools
 
@@ -27,4 +28,14 @@ I have 4 years of experience in frontend development. GitHub is home to my pet p
      <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=fff"/>
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   </p>
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+
 </div>
